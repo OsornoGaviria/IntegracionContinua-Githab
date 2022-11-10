@@ -2,8 +2,10 @@
 
 Proyecto trabajo colaborativo - Modulo Integracion Continua
 
-Por
+Por.
 
 Santiago Osorno Gaviria
+
 Yeison Mauricio Carmona
+
 Vianana Calderon
