@@ -13,6 +13,6 @@ Yeison Mauricio Carmona - Cod 100264265
 ycarmona@poligran.edu.co
 
 
-Vianana Calderon - Cod 100264261
+Viviana Calderon Rincon - Cod 100264261
 
-calderon@poligran.edu.co
+vcalderon@poligran.edu.co
